@@ -1,0 +1,13 @@
+# Binaries
+todo-app
+*.exe
+
+# Dependencies
+vendor/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
